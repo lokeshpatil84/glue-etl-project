@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# Lambda ZIP
+*.zip
+
+# OS / IDE
+*.log
+.vscode/
